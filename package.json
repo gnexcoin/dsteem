@@ -1,5 +1,5 @@
 {
-  "name": "@steemit/dsteem",
+  "name": "@gnexcoin/dsteem",
   "version": "0.10.2",
   "description": "Steem blockchain RPC client library",
   "author": "Johan Nordberg",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnordberg/dsteem"
+    "url": "https://github.com/gnexcoin/dsteem"
   },
   "scripts": {
     "test": "make ci-test",
